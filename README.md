@@ -19,4 +19,3 @@ Dependências:
 
 ## Conhecimento guiado por: <a name="author"></a>
 
-- Júlio de Lima 
