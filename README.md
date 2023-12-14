@@ -17,5 +17,3 @@ Dependências:
 - Depedência do RestAssured:
 **[here](https://mvnrepository.com/artifact/io.rest-assured/rest-assured/4.4.0)**
 
-## Conhecimento guiado por: <a name="author"></a>
-
